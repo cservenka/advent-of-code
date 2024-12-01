@@ -16,7 +16,7 @@
     "url": "https://github.com/cservenka/advent-of-code/issues"
   },
   "homepage": "https://github.com/cservenka/advent-of-code#readme",
-  "dependencies": {
-    "esm": "^3.2.25"
+  "devDependencies": {
+    "tsx": "^4.19.2"
   }
 }
