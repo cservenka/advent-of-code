@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cservenka/advent-of-code#readme",
   "devDependencies": {
+    "@types/node": "^22.10.1",
     "tsx": "^4.19.2"
   }
 }
